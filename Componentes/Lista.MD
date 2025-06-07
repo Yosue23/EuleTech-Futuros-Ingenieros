@@ -1,4 +1,4 @@
-# Piezas necesarias para el Drifter Car: 
+# Piezas necesarias para el Auto Autónomo: 
 
 -Motor DC: 2 motores (uno para cada rueda).  
 
