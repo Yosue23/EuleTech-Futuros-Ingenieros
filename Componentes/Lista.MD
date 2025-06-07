@@ -1,6 +1,6 @@
 # Piezas necesarias para el Robot Autónomo: 
 
--Motor DC: 2 motores (uno para cada rueda).  
+-Motor: 3 motores (uno para cada rueda y uno como volante).
 
 -Batería: 1 batería VEX IQ. 
 
