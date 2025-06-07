@@ -1,4 +1,4 @@
-# Piezas necesarias para el Auto Autónomo: 
+# Piezas necesarias para el Robot Autónomo: 
 
 -Motor DC: 2 motores (uno para cada rueda).  
 
